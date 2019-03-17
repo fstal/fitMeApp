@@ -1,0 +1,66 @@
+#loggedinnav {
+	width: 100%;
+}
+
+.navbar-header, .navbar-brand{
+	width: 100%;
+}
+
+
+.btn-group, .ts {
+	width: 100%;
+	overflow: hidden;
+}
+
+/*"Buttons" for the different views*/
+.mainpagelink, .myplanslink, .accountpagelink {
+	border-radius: 30px;
+	border-color: #57b846;
+	background-color: #57b846;
+	width: 150px;
+	height: 50px;
+	margin: 2px;
+}
+/*Text on the "buttons"*/
+#navlinktext {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	margin-top: 9%;
+}
+/*Highlights the specific view we're in*/
+.selected{
+	text-decoration: none;
+ 	background-color: #333333;
+ 	border-color: #333333;
+}
+/*Hover specifications*/
+.mainpagelink:hover {
+	text-decoration: none;
+ 	background-color: #333333;
+ 	border-color: #333333;
+}
+
+.myplanslink:hover {
+	text-decoration: none;
+ 	background-color: #333333;
+ 	border-color: #333333;
+}
+
+.accountpagelink:hover {
+	text-decoration: none;
+ 	background-color: #333333;
+ 	border-color: #333333;
+}
+
+/*Button for toggeling the search-component*/
+#togglesearch {
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+	color: #57b846;
+	background-color: #343a40;
+	border-color: #57b846;
+}

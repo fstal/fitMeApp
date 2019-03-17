@@ -1,0 +1,9 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/login';
+export const WELCOME = '/';
+export const MAIN_PAGE = '/mainpage';
+export const MY_PLANS = '/myplans';
+export const PASSWORD_FORGET = '/pw-forget';
+export const DETAILS = '/details'; //Ska läggas till ett id
+export const EXCERSISE_OVERVIEW = '/excersiseoverview';
+export const ACCOUNT = '/account';

@@ -1,0 +1,22 @@
+.logoutbtndiv {
+	width: 150px;
+}
+.logoutbtn {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	text-align: center;
+	border-radius: 30px;
+	border-color: #57b846;
+	background-color: #57b846;
+	color: white;
+
+	height: 50px;
+	margin: 2px;
+	width: 100%;
+}
+
+.logoutbtn:hover {
+	text-decoration: none;
+ 	background-color: #333333;
+ 	border-color: #333333;
+}

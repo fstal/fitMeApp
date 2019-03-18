@@ -1,9 +1,16 @@
-# iprog-project
+# fitMeApp
 
 Project for the course Interaction Programming and the Dynamic Web (IPROG)
 
 See the deployed page here. Hosted via Firebase Hosting: https://fitmeup-eeeb9.firebaseapp.com/
 
+Created using: JavaScript, React.js, HTML, CSS, Firebase
+
+Created by: Filip Stål, Joel Weidenmark, Louise Gröndahl, Alexander Nordh
+
+--------------------------------------------------------------
+
+Original repository is located on the enterprise github server for the university of KTH.
 
 --------------------------------------------------------------
 

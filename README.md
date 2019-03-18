@@ -2,7 +2,7 @@
 
 Project for the course Interaction Programming and the Dynamic Web (IPROG)
 
-See the deployed page here. Hosted via Firebase Hosting: https://fitmeup-eeeb9.firebaseapp.com/
+See the deployed application here. Hosted via Firebase Hosting: https://fitmeup-eeeb9.firebaseapp.com/
 
 Created using: JavaScript, React.js, HTML, CSS, Firebase
 
